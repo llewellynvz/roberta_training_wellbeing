@@ -175,3 +175,8 @@ This project was developed by an [Prof. Llewellyn van Zyl (PhD)](https://www.lin
 Feel free to fork, modify, or reach out if you'd like to contribute or collaborate on wellbeing-related ML pipelines.
 
 ---
+## 🛡 License
+
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute it with attribution.  
+© 2025 Prof. Llewellyn van Zyl. See [LICENSE](./LICENSE) for details.
